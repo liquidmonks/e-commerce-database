@@ -6,7 +6,6 @@ const tagRoutes = require("./tag-routes");
 /*
 It describes all the endpoints of the API operations
 */
-
 router.use("/categories", categoryRoutes);
 router.use("/products", productRoutes);
 router.use("/tags", tagRoutes);

@@ -21,7 +21,7 @@ router.get("/:id", async (req, res) => {
    */
   const data = await Product.findOne({
     where: { id: req.params.id },
-    include: [Category],
+    include: [Category, { model: Tag, through: ProductTag }],
   });
   return res.status(200).json(data);
 });

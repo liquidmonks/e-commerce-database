@@ -70,8 +70,9 @@ Execute the program:
 - Run "npm start"
 
 ## Application Demo Snippet
+![ecom](https://user-images.githubusercontent.com/114820394/215233350-fa892b30-bf20-4c1d-a810-4746ef64eb5b.gif)
 
-![ecomclip](https://user-images.githubusercontent.com/114820394/215232419-bb4a4c9f-e91c-4569-a482-85dfee1a46ab.gif)
+
 
 
 
